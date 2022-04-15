@@ -50,7 +50,10 @@
 
 ## Preview
 
-[![Preview]][Preview]
+[![Preview 1]][Preview 1]
+[![Preview 2]][Preview 2]
+[![Preview 3]][Preview 3]
+[![Preview 4]][Preview 4]
 
 ## Contributors
 
@@ -77,7 +80,10 @@
 [Discord]: https://tessapp.dev/discord
 [Twitter]: https://tessapp.dev/twitter
 
-[Preview]: preview/preview1.png
+[Preview 1]: preview/Preview1.png
+[Preview 2]: preview/Preview2.png
+[Preview 3]: preview/Preview3.png
+[Preview 4]: preview/Preview4.png
 [License]: LICENSE
 
 [Wiki]: https://github.com/SquitchYT/Tess/wiki/
